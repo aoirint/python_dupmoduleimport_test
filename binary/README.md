@@ -16,5 +16,10 @@ mv core*.so ../b/
 python3 -m nuitka --follow-imports --standalone --no-prefer-source-code main3.py
 
 ./main3.dist/main3
+
+# Expected output:
+# Hello
+# World
+# Hello
 ```
 
