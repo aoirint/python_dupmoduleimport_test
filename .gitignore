@@ -1,0 +1,9 @@
+*.pyi
+*.so
+*.dll
+*.lib
+*.build/
+*.dist/
+__pycache__/
+*.swp
+
